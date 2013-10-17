@@ -1,0 +1,27 @@
+{
+  "name": "busglue",
+  "version": "0.0.1",
+  "description": "Glue service for BusDroid and StartupBus",
+  "bugs": {
+    "url": "https://github.com/imrehg/busglue/issues"
+  },
+  "author": {
+    "name": "Gergely Imreh",
+    "email": "gergely@imreh.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imrehg/busglue.git"
+  },
+  "dependencies": {
+    "ejs": "~0.8.4",
+    "ejs-locals": "~1.0.2",
+    "express": "~3.3.8",
+    "underscore": "~1.5.2",
+    "mysql": "~2.0.0-alpha9"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
