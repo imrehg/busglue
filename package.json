@@ -17,7 +17,6 @@
     "ejs": "~0.8.4",
     "ejs-locals": "~1.0.2",
     "express": "~3.3.8",
-    "underscore": "~1.5.2",
     "mysql": "~2.0.0-alpha9"
   },
   "engines": {
